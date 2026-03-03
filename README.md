@@ -57,15 +57,6 @@ Aluno responsável pelas atividades e organização deste repositório. :content
 
 ---
 
-## ⭐ Dicas
-
-Se quiser, dá para evoluir este README ainda mais com:
-
-- Screenshots de cada atividade
-- Links para as apresentações/relatórios
-- Explicações curtas por atividade (objetivos e resultados)
-
----
 
 ## 📫 Contato
 
